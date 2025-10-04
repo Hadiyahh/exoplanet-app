@@ -1,0 +1,14 @@
+{
+    "koi_period": 10.5,
+    "koi_duration": 3.2,
+    "koi_depth": 500,
+    "koi_prad": 1.9,
+    "koi_model_snr": 15,
+    "koi_ror": 0.03,
+    "koi_impact": 0.2,
+    "koi_max_mult_ev": 1,
+    "koi_fpflag_ss": 0,
+    "koi_fpflag_co": 0,
+    "koi_fpflag_nt": 0,
+    "koi_fpflag_ec": 0
+}

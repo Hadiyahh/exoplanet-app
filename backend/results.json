@@ -1,0 +1,20 @@
+{
+  "prediction": "Confirmed",
+  "confidence": 0.921,
+  "probabilities": {
+    "Confirmed": 0.921,
+    "Candidate": 0.055,
+    "False Positive": 0.024
+  },
+  "explanation": {
+    "top_features": {
+      "koi_score": 0.182,
+      "koi_model_snr": 0.033,
+      "koi_prad": 0.046,
+      "koi_fpflag_co": -0.055,
+      "koi_fpflag_ss": -0.048
+    },
+    "note": "The model is highly confident this is a Confirmed planet, mainly due to high KOI score, moderate radius, and strong SNR. False-positive flags are low."
+  }
+}
+
